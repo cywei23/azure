@@ -9,7 +9,7 @@
 - `ipython kernel install --user`
 - `pip install --upgrade azureml-sdk[notebooks]`
 - `conda install -y cython matplotlib pandas tqdm`
-- `pip install --upgrade azureml-sdk[automl]`
+- `pip install --upgrade azureml-sdk[automl,explain]`
 - `pip install --upgrade azureml-dataprep`
 - If need to remove conda environment `conda remove --name myenv --all`
 
