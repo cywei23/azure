@@ -11,6 +11,7 @@
 - `conda install -y cython matplotlib pandas tqdm`
 - `pip install --upgrade azureml-sdk[automl]`
 - `pip install --upgrade azureml-dataprep`
+- If need to remove conda environment `conda remove --name myenv --all`
 
 ## Udemy - AZ-100/103 Azure Infrastructure and Deployment
 - [Skyline Academy](https://www.skylinesacademy.com/azure-study-resources/)
