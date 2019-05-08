@@ -8,7 +8,7 @@
 - `conda install notebook ipykernel`
 - `ipython kernel install --user`
 - `pip install --upgrade azureml-sdk[notebooks]`
-- `conda install -y cython matplotlib pandas tqdm`
+- `conda install -y cython matplotlib pandas tqdm py-xgboost=0.80`
 - `pip install --upgrade azureml-sdk[automl,explain]`
 - `pip install --upgrade azureml-dataprep`
 - If need to remove conda environment `conda remove --name myenv --all`
